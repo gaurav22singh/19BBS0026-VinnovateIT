@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+    <title>COVID-19</title>
+  </head>
+  <body>
+     <link rel="stylesheet" type="text/css" href="style1.css">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#"></a> 
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">About Covid-19 </a>
+
+      
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Total
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="#">Confirmed Cases</a>
+          <a class="dropdown-item" href="#">Recovered Cases</a>
+          <a class="dropdown-item" href="#">Death</a>
+          <div class="dropdown-divider"></div>
+          
+        </div>
+      </li>
+     
+    </ul>
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
+  </div>
+</nav>
+<
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <style type="text/css"> h1{
+
+        <a  href="https://tse1.mm.bing.net/th?id=OIP.LTClELt1ouTHHxeNFJ9BBQHaDa&pid=Api&P=0&w=366&h=169">
+        <img src="https://tse1.mm.bing.net/th?id=OIP.LTClELt1ouTHHxeNFJ9BBQHaDa&pid=Api&P=0&w=366&h=169" alt="Fjords" style="width:100%" id="center">
+        <div class="caption">
+
+      }
+        
+       </style>
+      
+       
+      </a>
+    </div>
+  </div>
+  
+      </a>
+    </div>
+  </div>
+</div>
+<h2>
+  <p align="center">Covid-19 Pandemic: </p>
+</h2>
+    
+      <p>Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2. It was first identified in December 2019 in Wuhan, Hubei, China, and has resulted in an ongoing pandemic.The first confirmed case has been traced back to 17 November 2019 in Hubei. As of 23 July 2020, more than 15.2 million cases have been reported across 188 countries and territories, resulting in more than 623,000 deaths. More than 8.64 million people have recovered.
+
+Common symptoms include fever, cough, fatigue, shortness of breath, and loss of smell and taste. While the majority of cases result in mild symptoms, some progress to acute respiratory distress syndrome (ARDS) possibly precipitated by cytokine storm, multi-organ failure, septic shock, and blood clots. The time from exposure to onset of symptoms is typically around five days, but may range from two to fourteen days.</p><br>
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">COUNTRY</th>
+      <th scope="col">CONFIRMED</th>
+      <th scope="col">DEATHS</th>
+      <th scope="col">RECOVERED</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>United States</td>
+      <td>3,942,254</td>
+      <td>139,866</td>
+      <td>1,210,849</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Brazil</td>
+      <td>2,227,514</td>
+      <td>82,771</td>
+      <td>1,532,138</td>
+      
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>India</td>
+      <td>1,238,635</td>
+      <td>29,861</td>
+      <td>782,607</td>
+      
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Russia</td>
+      <td>789,190</td>
+      <td>12,745</td>
+      <td>572,053</td>
+    </tr>
+    <tr>
+      <th scope="row">5</th>
+      <td>South Africa</td>
+      <td>381,789</td>
+      <td>5,368</td>
+      <td>2,879</td>
+    </tr>
+    <tr>
+      <th scope="row">6</th>
+      <td>Peru</td>
+      <td>366,550</td>
+      <td>13,767</td>
+      <td>252,758</td>
+    </tr>
+    <tr>
+      <th scope="row">7</th>
+      <td>Mexico</td>
+      <td>654,214</td>
+      <td>41,854</td>
+      <td>231,403</td>
+    </tr>
+    <tr>
+      <th scope="row">8</th>
+      <td>Chile</td>
+      <td>334,683</td>
+      <td>14,190</td>
+      <td>306,816</td>
+    </tr>
+    <tr>
+      <th scope="row">9</th>
+      <td>Iran</td>
+      <td>278,827</td>
+      <td>14,634</td>
+      <td>55,322</td>
+    </tr>
+    <tr>
+      <th scope="row">10</th>
+      <td>Spain</td>
+      <td>267,551</td>
+      <td>28,254</td>
+      <td>21,885</td>
+    </tr>
+    <tr>
+      <th scope="row">11</th>
+      <td>Pakistan</td>
+      <td>267,551</td>
+      <td>5,677</td>
+      <td>210,468</td>
+      
+    </tr>
+    <tr>
+      <th scope="row">12</th>
+      <td>Italy</td>
+      <td>245,325</td>
+      <td>35,358</td>
+      <td>197,257</td>
+    </tr>
+    <tr>
+      <th scope="row">13</th>
+      <td>Turkey</td>
+      <td>222,402</td>
+      <td>5,545</td>
+      <td>205,214</td>
+    </tr>
+    <tr>
+      <th scope="row">14</th>
+      <td>Colombia</td>
+      <td>218,428</td>
+      <td>7,373</td>
+      <td>101,613</td>
+    </tr>
+    <tr>
+      <th scope="row">15</th>
+      <td>Bangladesh</td>
+      <td>210,5101</td>
+      <td>2,709</td>
+      <td>12,785</td>
+    </tr>
+    <tr>
+      <th scope="row">16</th>
+      <td>China</td>
+      <td>86,226</td>
+      <td>4,655</td>
+      <td>78,840</td>
+      
+    </tr>
+    <tr>
+      <th scope="row">17</th>
+      <td>Qatar</td>
+      <td>107,871</td>
+      <td>163</td>
+      <td>104,641</td>
+      
+    </tr>
+    <tr>
+      <th scope="row">18</th>
+      <td>Iraq</td>
+      <td>97,159</td>
+      <td>3,950</td>
+      <td>2,556</td>
+    </tr>
+
+    <tr>
+      <th scope="row">19</th>
+      <td>Sweden</td>
+      <td>78,504</td>
+      <td>5,596</td>
+      <td>2,358</td>
+    </tr>
+    <tr>
+      <th scope="row">20</th>
+      <td>Canada</td>
+      <td>112,227</td>
+      <td>8,870</td>
+      <td>98,142</td>
+      
+    </tr>
+  </tbody>
+</table>
+<br>
+<h1>
+  <p align="center">Thank You!</p>
+</h1>
+
+<hr>
+  </body>
+</html>
